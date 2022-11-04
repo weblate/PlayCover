@@ -337,10 +337,12 @@
 "preferences.toggle.showInstallPopup" = "显示安装 PlayTools 弹窗";
 "preferences.toggle.alwaysInstallPlayTools" = "总是安装 PlayTools";
 "alert.install.injectPlayTools" = "注入 PlayTools";
-"alert.install.injectPlayToolsInApp" = "您希望在此应用中注入 PlayTools 吗？";
 "button.Yes" = "是";
 "button.No" = "否";
 "settings.noPlayTools" = "此应用中并无安装 PlayTools";
 "settings.removePlayTools" = "移除 PlayTools";
 "settings.info.playTools" = "已安装 PlayTools：";
 "playapp.refreshSources" = "刷新来源";
+"error.appMaliciousProhibited" = "此应用程序在Mac上有恶意行为，使用它会使您的设备处于无法启动的状态，因此它被PlayCover阻止。（正在卸载...)";
+"alert.install.injectPlayToolsQuestion" = "Do you want to inject PlayTools into this application?";
+"alert.install.playToolsInformative" = "PlayTools is a tool that allows you to bind keys to screen touches, custom display resolutions, and more, but it may break certain apps";
